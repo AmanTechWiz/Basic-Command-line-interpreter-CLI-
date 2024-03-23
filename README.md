@@ -14,7 +14,7 @@ This is a simple command-line shell implemented in C. It provides basic function
 ## Usage
 
 1. Clone the repository:
-git clone <[repository_url](https://github.com/AmanTechWiz/Basic-Command-line-interpreter-CLI-)>
+git clone <(https://github.com/AmanTechWiz/Basic-Command-line-interpreter-CLI-)>
 
 2.Run the code:
 gcc cli.c
