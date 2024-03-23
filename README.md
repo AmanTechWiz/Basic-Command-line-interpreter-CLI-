@@ -12,7 +12,6 @@ This is a simple command-line shell implemented in C. It provides basic function
 - Supports exiting the shell using the exit command.
 
 ## Usage
-
 1. Clone the repository:
 git clone https://github.com/AmanTechWiz/Basic-Command-line-interpreter-CLI-
 
